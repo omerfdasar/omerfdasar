@@ -1,7 +1,9 @@
 
+💻 I'm a full stack web developer
+
 🔭 I’m currently working on various projects..
 
-🌱 I’m currently learning ReactJS
+🌱 I’m currently learning Django
 
 👯 I’m looking to collaborate on reactjs projects
 
@@ -42,7 +44,15 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  <a href="https://bulma.io/" target="_blank">
+    <img  alt="bulma"/> src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
+  </a>
+   <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a> 
+	
 </p>
+
 
 ### 👉 Software & Tools
  
@@ -53,6 +63,9 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="https://github.com/omerfdasar" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />  </a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
@@ -67,9 +80,26 @@
 	
 </p>
 
+### 👉 Cloud & Hosting
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"/> 
+  </a> 
+</p>
+
 <br/>
 
-## Let's Connect
+##🤵 Let's Connect
 <p align="center">
   <a href="https://omerfdasar.github.io/myBioPageWithSASS/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:omerfarukdasar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
