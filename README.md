@@ -1,7 +1,7 @@
 
 💻 I'm a full stack web developer
 
-🔭 I’m currently working on various projects..
+🔭 I’m currently working on various projects about Django and React
 
 🌱 I’m currently learning Django
 
