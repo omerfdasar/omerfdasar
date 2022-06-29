@@ -57,7 +57,7 @@
 </p>
 
 
-### 👉 Frontend Development
+### 👉 Backend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.djangoproject.com/" target="_blank"> 
