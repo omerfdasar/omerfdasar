@@ -57,6 +57,27 @@
 </p>
 
 
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </a>   
+  &emsp;
+  &emsp; 
+  <a href="https://www.django-rest-framework.org/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  </a>   
+  &emsp;
+  &emsp; 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>   
+  &emsp;
+</p>
+
+
+
 ### 👉 Software & Tools
  
 <p>
