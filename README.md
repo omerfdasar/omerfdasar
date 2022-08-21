@@ -58,7 +58,7 @@
    &emsp;
 	 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
    &emsp;
-	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=JEST&logoColor=red">
+	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Testing Library&logoColor=red">
 </p>
 
 
