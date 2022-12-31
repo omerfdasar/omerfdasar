@@ -71,14 +71,6 @@
  <a href="https://styled-components.com" target="_blank"> 
 	 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
  </a> 
-   &emsp;
-	<a href="https://reactjs.org" target="_blank"> 
-	 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-        </a> 
-   &emsp;
-	<a href="https://nextjs.org" target="_blank"> 
-	 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
-        </a> 
 </p>
 
 
@@ -112,7 +104,7 @@
 </p>
 
 ### 👉 Testing
-<p align="center">
+<p align="center" justify-content="space-around">
   
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
