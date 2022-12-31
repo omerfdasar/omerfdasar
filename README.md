@@ -104,17 +104,22 @@
 </p>
 
 ### 👉 Testing
-<p align="center" justify-content="space-around">
-  
+<p align="left" >
+    &emsp; 
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
   </a>
+ &emsp;   
+ &emsp; 
   <a href="https://www.cypress.io" target="_blank">
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress"/>
   </a>
+  &emsp; 
+  &emsp; 
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="testinglib" /> 
   </a> 
+&emsp; 
 </p>
 
 ### 👉 Software & Tools
