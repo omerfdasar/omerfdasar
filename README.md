@@ -62,6 +62,10 @@
    &emsp;
 	 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
    &emsp;
+	 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
+			
+	
+   &emsp;
 	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Testing Library&logoColor=red">
 </p>
 
@@ -100,7 +104,7 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?style=for-the-badge&logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
