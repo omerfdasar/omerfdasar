@@ -1,5 +1,5 @@
 
-💻 I'm a full stack web developer
+💻 I'm a full stack web developer in Belgium
 
 🔭 I’m currently working on various projects about Next and Spring
 
