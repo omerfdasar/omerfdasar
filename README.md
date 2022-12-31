@@ -1,11 +1,11 @@
 
 💻 I'm a full stack web developer
 
-🔭 I’m currently working on various projects about Django and React
+🔭 I’m currently working on various projects about Next and Spring
 
-🌱 I’m currently learning Django
+🌱 I’m currently learning Java
 
-👯 I’m looking to collaborate on reactjs projects
+👯 I’m looking to collaborate on full stack projects
 
 🌱 I’m addicted to learning and growing every day
 
@@ -68,8 +68,12 @@
 	 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   </a> 
    &emsp;
- <a href="https://styled-components.com" target="_blank"> 
+   <a href="https://styled-components.com" target="_blank"> 
 	 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+ </a> 
+  &emsp;	
+  <a href="https://mui.com" target="_blank"> 
+	 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
  </a> 
 </p>
 
