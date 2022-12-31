@@ -63,8 +63,6 @@
 	 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
    &emsp;
 	 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
-			
-	
    &emsp;
 	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Testing Library&logoColor=red">
 </p>
