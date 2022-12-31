@@ -31,6 +31,14 @@
 
 ### 👉 Frontend Development
 <p align="left"> 
+  &emsp;
+  <a href="https://reactjs.org" target="_blank"> 
+   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  </a> 
+  &emsp;
+  <a href="https://nextjs.org" target="_blank"> 
+   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
+  </a> 	
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
