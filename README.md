@@ -45,7 +45,7 @@
   </a>
    &emsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind&logoColor=white"/>
+    <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
    &emsp;	
   <a href="https://bulma.io/" target="_blank">
