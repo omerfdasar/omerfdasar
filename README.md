@@ -176,7 +176,6 @@
   &emsp; 
 </p>
 
-<br/>
 
 ### 🤵 Let's Connect
 
