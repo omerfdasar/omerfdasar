@@ -56,15 +56,21 @@
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
    &emsp;
+   <a href="https://sass-lang.com" target="_blank"> 
 	 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  </a> 
    &emsp;
+ <a href="https://styled-components.com" target="_blank"> 
 	 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+ </a> 
    &emsp;
+	<a href="https://reactjs.org" target="_blank"> 
 	 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+        </a> 
    &emsp;
+	<a href="https://nextjs.org" target="_blank"> 
 	 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
-   &emsp;
-	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Testing Library&logoColor=red">
+        </a> 
 </p>
 
 
@@ -97,14 +103,25 @@
   &emsp;
 </p>
 
+### 👉 Testing
+<p align="center">
+  
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+  </a>
+  <a href="https://www.cypress.io" target="_blank">
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="testinglib" /> 
+  </a> 
+</p>
 
 ### 👉 Software & Tools
  
 <p>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
@@ -153,7 +170,6 @@
 	<a href="https://github.com/omerfdasar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/omer-dasar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
-	
 </p>
 
 <hr/>
