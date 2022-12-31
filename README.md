@@ -44,6 +44,10 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
    &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind&logoColor=white"/>
+  </a>
+   &emsp;	
   <a href="https://bulma.io/" target="_blank">
     <img  alt="bulma" src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"/>
   </a>
