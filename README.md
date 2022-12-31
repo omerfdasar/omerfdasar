@@ -100,7 +100,7 @@
     <a href="https://github.com/omerfdasar" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />  </a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
   &emsp;
