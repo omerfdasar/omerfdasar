@@ -1,9 +1,7 @@
 
-💻 I'm a full stack web developer in Belgium
+💻 I'm a full stack web developer in Belgium / Canada
 
 🔭 I’m currently working on various projects about Next and Spring
-
-🌱 I’m currently learning Java
 
 👯 I’m looking to collaborate on full stack projects
 
